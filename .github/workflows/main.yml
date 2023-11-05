@@ -2,7 +2,7 @@ name: Yuh Update Filter Lists v1.1
 
 on:
   schedule:
-    - cron: "0 21 * * *"
+    - cron: "0 21 * * 1"
   push:
     branches:
       - main
